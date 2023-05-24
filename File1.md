@@ -2,4 +2,4 @@
 # some code
 more testing for testing and separate code
 
-Ohter line
+Other line
