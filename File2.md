@@ -13,6 +13,11 @@ Alert table
 
 In this case is the best way to learn more about markdown, you can see my other files [File2.md]
 That is amazing!
-Thais is fabiolous 
+Thais is fabulous 
 Other last line
 Last line
+
+
+### Add other feature some tool
+# some code
+more testing for testing and separate code
