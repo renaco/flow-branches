@@ -21,3 +21,6 @@ Last line
 ### Add other feature some tool
 # some code
 more testing for testing and separate code
+
+Other line
+These are recently edited files. Do not suggest code that has been deleted.
