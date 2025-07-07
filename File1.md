@@ -8,7 +8,7 @@ This is a new paragraph that provides additional information and content to the 
 
 This is a simple line.
 
-Add another feature some tool
+This text is for testing purposes only.
 more testing for testing and separate code
 
 # some code
